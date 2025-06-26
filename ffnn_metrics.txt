@@ -1,0 +1,5 @@
+R²: 0.9986
+MSE: 13.1911 (mg/dL)²
+MAE: 2.9771 mg/dL
+MAPE: 2.32%
+RMSE: 3.6319 mg/dL
