@@ -34,8 +34,8 @@ pip install -r requirements.txt
 
 ### 4. Prepare Data
 
-* Place your `clas.csv` dataset in the project root.
-* Format: first 8 columns are NIR-derived features (voltage, transmittance, absorbance, reflectance for 940 nm & 950 nm), 9th column is the reference glucose value (mg/dL).
+
+* Format: Each row should contain an 8-dimensional feature vector (NIR-derived features for 940 nm & 950 nm) along with the corresponding glucose level (mg/dL) as ground truth.
 
 ---
 
